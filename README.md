@@ -6,7 +6,6 @@ This repository contains AI, Machine Learning, and Deep Learning projects develo
 - AI Blog Writer
 - AI Code Review
 - AI Voice Assistant
-- Blog Writer
 - Domain Specific Chatbot
 - Gemini Document Analyzer
 - Gen AI Tutor
