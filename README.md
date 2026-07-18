@@ -14,3 +14,4 @@ This repository contains AI, Machine Learning, and Deep Learning projects develo
 - Speech to Text
 - Text to Speech
 - Weather Agent
+- Weather and Tour Planner Chatbot
